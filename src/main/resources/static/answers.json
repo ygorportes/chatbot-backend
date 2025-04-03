@@ -1,0 +1,37 @@
+{
+  "faq": [
+    {
+      "keywords": ["pinpad", "erro", "leitor"],
+      "answer": "Tire o cabo USB do pinpad do computador, espere alguns segundos e conecte novamente. Depois, feche o sistema de vendas, abra novamente e teste. Lembre-se de manter o pinpad sempre conectado na parte de trás do computador, pois isso ajuda a evitar problemas."
+    },
+    {
+      "keywords": ["estorno", "cancelar", "cancelamento"],
+      "answer": "Para fazer o estorno, vá até o menu administrador do sistema. Se não souber onde fica, entre em contato com o suporte da automação do sistema de vendas. Você precisará informar o valor, a data e o número do documento (NSU HOST). Depois, será necessário passar o cartão novamente, então o cliente precisa estar presente. O estorno só pode ser feito no mesmo dia da venda pelo TEF. Se for outro dia, entre em contato com a adquirente."
+    },
+    {
+      "keywords": ["conexão", "servidor", "offline", "rede", "erro de rede"],
+      "answer": "Verifique se a internet está funcionando abrindo um site no navegador. Se a internet estiver normal, reinicie o computador e tente novamente. Caso o problema continue, fale com o suporte técnico para verificar a conexão."
+    },
+    {
+      "keywords": ["cartão", "pix", "cadastro", "meios de pagamento"],
+      "answer": "Para aceitar novos cartões ou receber por Pix, entre em contato com o setor de credenciamento. No caso do Pix, você precisará das informações fornecidas pelo banco (como Client ID, Client Secret e a chave Pix). Envie esses dados para o e-mail comercial@qualita.inf.br."
+    },
+    {
+      "keywords": ["nota fiscal", "nf", "impressão", "impressora"],
+      "answer": "Se houver problemas com a nota fiscal ou a impressora, entre em contato com a equipe responsável pelo sistema de vendas, pois eles cuidam dessa parte."
+    },
+    {
+      "keywords": ["transação negada", "não aprovado"],
+      "answer": "A transação foi recusada pela operadora do cartão ou pelo banco do cliente. O ideal é que o cliente tente outro cartão ou entre em contato com o banco para entender o motivo da recusa."
+    },
+    {
+      "keywords": ["reimpressão", "segunda via", "comprovante"],
+      "answer": "Para reimprimir o comprovante da venda, vá até o sistema de vendas e procure pela opção de ‘Reimprimir Última Venda’ ou algo parecido. Se não encontrar, verifique com o suporte da automação responsável pelo sistema de vendas."
+    },
+    {
+      "keywords": ["travado", "sem resposta", "sistema parado"],
+      "answer": "Se o sistema travou, feche e abra novamente. Se ainda assim não funcionar, reinicie o computador e tente outra vez."
+    }
+  ],
+  "default": "Não consegui entender sua dúvida. Poderia descrever melhor o que está acontecendo? Se precisar, também pode entrar em contato com o suporte técnico do TEF."
+}

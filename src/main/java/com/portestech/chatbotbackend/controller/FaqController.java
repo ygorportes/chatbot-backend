@@ -1,6 +1,7 @@
 package com.portestech.chatbotbackend.controller;
 
 import com.portestech.chatbotbackend.dto.MessageRequest;
+import com.portestech.chatbotbackend.util.FaqAnswers;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -13,8 +14,7 @@ public class FaqController {
 
     @PostMapping
     public ResponseEntity<String> answerQuestion(@RequestBody MessageRequest request) {
-        System.out.println(request.message());
-
+        FaqAnswers faqAnswers = new FaqAnswers();
         return ResponseEntity.ok("Your answer is: it worked out");
     }
 }
