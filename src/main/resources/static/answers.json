@@ -14,7 +14,7 @@
     },
     {
       "keywords": ["cartão", "pix", "cadastro", "meios de pagamento"],
-      "answer": "Para aceitar novos cartões ou receber por Pix, entre em contato com o setor de credenciamento. No caso do Pix, você precisará das informações fornecidas pelo banco (como Client ID, Client Secret e a chave Pix). Envie esses dados para o e-mail comercial@qualita.inf.br."
+      "answer": "Para aceitar novos cartões ou receber por Pix, entre em contato com o setor de credenciamento. No caso do Pix, você precisará das informações fornecidas pelo banco (como Client ID, Client Secret e a chave Pix). Envie esses dados para o e-mail comercial@tef.com.br."
     },
     {
       "keywords": ["nota fiscal", "nf", "impressão", "impressora"],
@@ -33,5 +33,5 @@
       "answer": "Se o sistema travou, feche e abra novamente. Se ainda assim não funcionar, reinicie o computador e tente outra vez."
     }
   ],
-  "default": "Não consegui entender sua dúvida. Poderia descrever melhor o que está acontecendo? Se precisar, também pode entrar em contato com o suporte técnico do TEF."
+  "default": "Não consegui entender sua dúvida. Poderia descrever melhor o que está acontecendo? Se precisar, também pode entrar em contato com o nosso suporte técnico."
 }
