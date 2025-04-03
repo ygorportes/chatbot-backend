@@ -3,7 +3,6 @@ package com.portestech.chatbotbackend.controller;
 import com.portestech.chatbotbackend.dto.MessageRequest;
 import com.portestech.chatbotbackend.dto.MessageResponse;
 import com.portestech.chatbotbackend.service.FaqService;
-import com.portestech.chatbotbackend.util.FaqAnswers;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
